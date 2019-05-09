@@ -1,0 +1,16 @@
+{
+  "name": "hello_world_docker",
+  "version": "1.0.0",
+  "description": "Ejemplo de contenedor para NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "David Perez S.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ejs":"2.6.1"
+  }
+}
